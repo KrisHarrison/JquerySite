@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!-- Include your name in this opening and also the closing tag
+		 Take out all text in opening and closing tag and include just your username -->
+<EnterYourLoginNameHere-InOpeningAndInClosingTag>
+
+	<!-- Include your Sheridan Student number in the studentNumber attribute-->
+	<student studentNumber="991152658">
+
+		<!-- Include your full name -->
+		<studentName>Kristien Harrison</studentName>
+
+		<!-- Include your Program -->
+		<studentProg>Software Engineering</studentProg>
+
+		<!-- Include your Campus -->
+		<studentCampus>Trafalgar</studentCampus>
+
+		<!-- Include an image filename for an image of you -->
+		<image>Kris.jpg</image><!--ALL IMAGES BELONG TO ME -->
+
+		<!-- Include information for 3 of your favorite cities
+				 ex. City Name="Toronto"
+						country ="Canada"
+						province="Ontario"
+						 image="_images/toronto.jpg"-->
+
+		<city lat="52.5200° N" long="13.4050° E">
+			<name>Berlin</name>
+			<country>Germany</country>
+			<province>Berlin</province>
+			<image>Berlin2.jpg</image><!--ALL IMAGES BELONG TO ME -->
+		</city>
+		<city lat="48.8566° N" long="2.3522° E">
+			<name>Paris</name>
+			<country>France</country>
+			<province>Île-de-France</province>
+			<image>Paris2.jpg</image><!--ALL IMAGES BELONG TO ME -->
+		</city>
+		<city lat="54.3520° N" long="18.6466° E">
+			<name>Gdansk</name>
+			<country>Poland</country>
+			<province>Pomeranian Voivodeship</province>
+			<image>Gdansk.jpg</image><!--ALL IMAGES BELONG TO ME -->
+		</city>
+	</student>
+</EnterYourLoginNameHere-InOpeningAndInClosingTag>

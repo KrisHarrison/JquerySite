@@ -1,0 +1,25 @@
+
+#myInfo{
+  text-align: center;
+  font-family: verdana;
+  font-size: 10px;
+}
+#cities{
+  text-align: center;
+
+}
+#berlinLink,#parisLink,#gdanskLink{
+
+  text-decoration: none;
+  color: black;
+  font-family: verdana;
+  font-size: 35px;
+
+}
+#myPhoto{
+  text-align: center;
+}
+#container{
+  margin-left:-50px;
+  margin-top: -50px;
+}

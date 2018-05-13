@@ -1,0 +1,29 @@
+table,td{
+  float:center;
+  margin:auto;
+  margin-top: 150px;
+}
+#long,#lat,#city,#country,#province{
+  font-size: 35px;
+  font-family: verdana;
+}
+#province{
+  font-size: 35px;
+  font-family: verdana;
+  vertical-align: top;
+  text-align: left;
+}
+#image{
+  float: center;
+  margin:auto;
+}
+#mainMenu{
+  text-decoration: none;
+  color:black;
+  font-size: 35px;
+
+}
+#menuLink{
+  text-align: center;
+  margin-top: 100px;
+}
